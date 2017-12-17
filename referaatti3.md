@@ -9,4 +9,6 @@ tavalla käydään myös läpi Scrumin määrittely kommunikaatiolle sprinttien 
 jotta työskentely on mahdollisimman sujuvaa.
 
 Teksti käy myös läpi parihojelmointia ja sen tuomia etuja, koska pariohjelmoinnissa 
-vaaditaan kahden henkilön välistä kommunikaatiota ohejlmoidessa.
+vaaditaan kahden henkilön välistä kommunikaatiota ohejlmoidessa. Teksti käsittelee 
+myös persoonallisuustyyppejä ja sitä, miten erilaiset persoonat saattavat vaikuttaa
+ohjelman kehitykseen eri vaiheissa. 
